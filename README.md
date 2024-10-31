@@ -1,5 +1,3 @@
-# Hi there! 👋 I'm Myla Camel Astronomo Vargas
-
 ## 🎓 About Me
 
 I'm a current student passionate about **web development and design**, working to expand my skills in building user-friendly and visually appealing websites. I love experimenting with new tools and techniques to bring creative ideas to life.
